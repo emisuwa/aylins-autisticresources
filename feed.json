@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "aylin&#x27;s autistic resource database &lt;3",
+    "description": "",
+    "home_page_url": "https://aylins-autisticresources.org",
+    "feed_url": "https://aylins-autisticresources.org/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "emily"
+    },
+    "items": [
+        {
+            "id": "https://aylins-autisticresources.org/post-1.html",
+            "url": "https://aylins-autisticresources.org/post-1.html",
+            "title": "post 1",
+            "author": {
+                "name": "emily"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-01-10T19:11:44-08:00",
+            "date_modified": "2026-01-10T19:11:44-08:00"
+        }
+    ]
+}

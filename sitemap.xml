@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://aylins-autisticresources.org/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://aylins-autisticresources.org/</loc>
+</url>
+<url>
+<loc>https://aylins-autisticresources.org/about.html</loc>
+<lastmod>2026-01-10T14:08:55-08:00</lastmod>
+</url>
+<url>
+<loc>https://aylins-autisticresources.org/contact-us.html</loc>
+<lastmod>2026-01-10T14:10:01-08:00</lastmod>
+</url>
+<url>
+<loc>https://aylins-autisticresources.org/our-favorites.html</loc>
+<lastmod>2026-01-10T14:50:56-08:00</lastmod>
+</url>
+<url>
+<loc>https://aylins-autisticresources.org/post-1.html</loc>
+<lastmod>2026-01-10T19:11:44-08:00</lastmod>
+</url>
+</urlset>
