@@ -62,6 +62,8 @@ html.no-scroll {
 
 body {
   background: hsla(var(--background), var(--alpha, 1));
+background-image: url('https://images.pexels.com/photos/998641/pexels-photo-998641.jpeg');
+    background-repeat: repeat;
   color: hsla(var(--color), var(--alpha, 1));
   font-family: var(--body-font);
   font-variation-settings: "wght" var(--font-weight-normal);
