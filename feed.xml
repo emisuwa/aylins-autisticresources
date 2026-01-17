@@ -3,14 +3,14 @@
     <title>aylin&#x27;s autistic resource database &lt;3</title>
     <link href="https://aylins-autisticresources.org/feed.xml" rel="self" />
     <link href="https://aylins-autisticresources.org" />
-    <updated>2026-01-11T18:08:13-08:00</updated>
+    <updated>2026-01-11T20:18:52-08:00</updated>
     <author>
         <name>emily</name>
     </author>
     <id>https://aylins-autisticresources.org</id>
 
     <entry>
-        <title>post 3</title>
+        <title>I&#x27;m Autistic, Now What?</title>
         <author>
             <name>emily</name>
         </author>
@@ -18,11 +18,22 @@
         <id>https://aylins-autisticresources.org/post-3/</id>
 
         <updated>2026-01-11T18:08:13-08:00</updated>
-            <summary></summary>
-        <content></content>
+            <summary type="html">
+                <![CDATA[
+                    by Meg https://www.youtube.com/@imautisticnowwhat
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><a href="https://www.youtube.com/@imautisticnowwhat"></a><a href="https://www.youtube.com/@imautisticnowwhat"></a>by Meg</p>
+<p> </p>
+<p>https://www.youtube.com/@imautisticnowwhat</p>
+<p> </p>
+            ]]>
+        </content>
     </entry>
     <entry>
-        <title>post 2</title>
+        <title>AuCT - What is Autistic-Centered Therapy?</title>
         <author>
             <name>emily</name>
         </author>
@@ -30,11 +41,22 @@
         <id>https://aylins-autisticresources.org/post-2/</id>
 
         <updated>2026-01-11T18:08:10-08:00</updated>
-            <summary></summary>
-        <content></content>
+            <summary type="html">
+                <![CDATA[
+                    by Matt Lowry https://www.mattlowrylpp.com/blog/act-83tka
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>by Matt Lowry<a href="https://www.mattlowrylpp.com/blog/act-83tka"></a></p>
+<p> </p>
+<p><a href="https://www.mattlowrylpp.com/blog/act-83tka">https://www.mattlowrylpp.com/blog/act-83tka</a></p>
+<p> </p>
+            ]]>
+        </content>
     </entry>
     <entry>
-        <title>post 1</title>
+        <title>Me and Monotropism: A unified theory of autism</title>
         <author>
             <name>emily</name>
         </author>
@@ -42,7 +64,18 @@
         <id>https://aylins-autisticresources.org/post-1/</id>
 
         <updated>2026-01-10T19:11:44-08:00</updated>
-            <summary></summary>
-        <content></content>
+            <summary type="html">
+                <![CDATA[
+                    by Fergus Murray https://www.bps.org.uk/psychologist/me-and-monotropism-unified-theory-autism
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>by Fergus Murray<a href="https://www.bps.org.uk/psychologist/me-and-monotropism-unified-theory-autism"></a></p>
+<p> </p>
+<p><a href="https://www.bps.org.uk/psychologist/me-and-monotropism-unified-theory-autism">https://www.bps.org.uk/psychologist/me-and-monotropism-unified-theory-autism</a></p>
+<p> </p>
+            ]]>
+        </content>
     </entry>
 </feed>

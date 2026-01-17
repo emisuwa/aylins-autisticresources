@@ -77,13 +77,13 @@ background-size: auto auto;
 }
 
 a {
-  color: var(--link-color);
+  color: var(--link-color-hover);
   text-decoration: none;
   -webkit-transition: all 0.12s linear;
   transition: all 0.12s linear;
 }
 a:hover {
-  color: var(--link-color-hover);
+  color: var(--link-color);
 }
 a:active {
   color: var(--link-color-hover);
