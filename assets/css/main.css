@@ -90,15 +90,18 @@ a {
   -webkit-transition: all 0.12s linear;
   transition: all 0.12s linear;
 }
+a:link, a:visited {
+  color: white;
+}
+a:focus {
+  color: var(--link-color-hover);
+  outline: none;
+}
 a:hover {
   color: var(--link-color);
 }
 a:active {
   color: var(--link-color-hover);
-}
-a:focus {
-  color: var(--link-color-hover);
-  outline: none;
 }
 
 .c-card {
