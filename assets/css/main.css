@@ -1238,7 +1238,7 @@ textarea {
   vertical-align: top;
 }
 .hero p {
-  color: var(--gray-2);
+  color: white;
 }
 @media all and (min-width: 56.25em) {
   .hero p {
