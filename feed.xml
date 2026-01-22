@@ -3,7 +3,7 @@
     <title>aylin&#x27;s autistic resource database &lt;3</title>
     <link href="https://aylins-autisticresources.org/feed.xml" rel="self" />
     <link href="https://aylins-autisticresources.org" />
-    <updated>2026-01-22T14:30:45-08:00</updated>
+    <updated>2026-01-22T14:51:54-08:00</updated>
     <author>
         <name>emily</name>
     </author>
@@ -16,17 +16,20 @@
         </author>
         <link href="https://aylins-autisticresources.org/post-3/"/>
         <id>https://aylins-autisticresources.org/post-3/</id>
+        <media:content url="https://aylins-autisticresources.org/media/posts/6/meg-2.png" medium="image" />
             <category term="Youtube"/>
             <category term="AuDHD"/>
 
         <updated>2026-01-11T18:08:13-08:00</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://aylins-autisticresources.org/media/posts/6/meg-2.png" alt="" />
                     by Meg https://www.youtube.com/@imautisticnowwhat
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://aylins-autisticresources.org/media/posts/6/meg-2.png" class="type:primaryImage" alt="" /></p>
                 <p><a href="https://www.youtube.com/@imautisticnowwhat"></a><a href="https://www.youtube.com/@imautisticnowwhat"></a>by Meg</p>
 <p> </p>
 <p>https://www.youtube.com/@imautisticnowwhat</p>
@@ -41,17 +44,20 @@
         </author>
         <link href="https://aylins-autisticresources.org/post-2/"/>
         <id>https://aylins-autisticresources.org/post-2/</id>
+        <media:content url="https://aylins-autisticresources.org/media/posts/5/AuCT.png" medium="image" />
             <category term="Podcasts"/>
             <category term="Neuro-Affirming Therapy"/>
 
         <updated>2026-01-11T18:08:10-08:00</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://aylins-autisticresources.org/media/posts/5/AuCT.png" alt="orange/yellow pie chart showing the parts of autistic-centered therapy: autistic interpersonal therapy, advocacy work, trauma work, and &quot;automotive&quot; maintenance for the client&#x27;s basic needs" />
                     by Matt Lowry https://www.mattlowrylpp.com/blog/act-83tka
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://aylins-autisticresources.org/media/posts/5/AuCT.png" class="type:primaryImage" alt="orange/yellow pie chart showing the parts of autistic-centered therapy: autistic interpersonal therapy, advocacy work, trauma work, and &quot;automotive&quot; maintenance for the client&#x27;s basic needs" /></p>
                 <p>by Matt Lowry<a href="https://www.mattlowrylpp.com/blog/act-83tka"></a></p>
 <p> </p>
 <p><a href="https://www.mattlowrylpp.com/blog/act-83tka">https://www.mattlowrylpp.com/blog/act-83tka</a></p>
