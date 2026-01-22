@@ -90,13 +90,20 @@ a {
   -webkit-transition: all 0.12s linear;
   transition: all 0.12s linear;
 }
-a:link, a:visited {
-  color: white;
-}
+
 a:focus {
   color: var(--link-color-hover);
   outline: none;
 }
+
+/* unvisited link */
+a:link {
+}
+
+/* visited link */
+a:visited {
+}
+
 a:hover {
   color: var(--link-color);
 }
