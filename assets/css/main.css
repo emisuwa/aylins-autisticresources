@@ -108,6 +108,11 @@ a:active {
   color: black;
 }
 
+/* trying to make the tag text on cards be pink (not working) */
+.c-card__tag {
+  color: #ec1037;
+}
+
 /* Links within cards (white bg) */
 .c-card a {
   color: black;
@@ -1505,6 +1510,7 @@ textarea {
   margin-top: 1.5rem;
 }
 .c-card__tag {
+  color: #ec1037;
   font-variation-settings: "wght" var(--font-weight-bold);
   font-size: 0.7901234568rem;
 }
@@ -1666,9 +1672,9 @@ textarea {
   padding: 0 0.5rem 0.5rem 0;
 }
 .content__tag li > a {
-  background: var(--lighter);
+  background: #ec1037;
+  color: var(--white);
   border-radius: 3px;
-  color: var(--dark);
   display: block;
   font-family: var(--heading-font);
   font-size: 0.7901234568rem;
@@ -1676,8 +1682,8 @@ textarea {
   padding: 0.25rem 0.5rem;
 }
 .content__tag li > a:hover {
-  background: var(--dark);
-  color: var(--white);
+  background: var(--lighter);
+  color: black;
 }
 .content__share {
   flex-shrink: 1;
