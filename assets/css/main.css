@@ -1768,7 +1768,7 @@ textarea {
 }
 
 .content__related {
-  background: var(--lighter);
+  background: #0a637f;
   margin: calc(3rem + 1vw) 0 -4.5rem;
   padding: 2rem 0 3rem;
 }
