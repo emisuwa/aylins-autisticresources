@@ -11,6 +11,40 @@
     },
     "items": [
         {
+            "id": "https://aylins-autisticresources.org/autistic-culture-podcast/",
+            "url": "https://aylins-autisticresources.org/autistic-culture-podcast/",
+            "title": "Autistic Culture Podcast",
+            "summary": "The Autistic Culture Podcast is/was a podcast that reimagines autism as a cultural difference as well as a neurological one.",
+            "content_html": "<h5>The <em><span style=\"text-decoration: underline;\"><a href=\"https://www.autisticculturepodcast.com/podcast\">Autistic Culture Podcast</a></span></em> is/was a podcast that reimagines autism as a cultural difference as well as a neurological one. </h5>\n<p>For the first approximately 129 episodes of this podcast, the hosts were Matt Lowry, LPP and Dr. Angela Kingdon, who discussed various sociocultural aspects of autistic culture (as opposed to the dominant neurotypical culture we live in). In the imagined <span style=\"text-decoration: underline;\"><a href=\"https://www.mattlowrylpp.com/blog/autistica\">Land of Autistica</a></span>, a fable written by Matt, autistic people are surrounded by their own neurokin in a world made for them, unlike the world of forced neurotypicality.</p>\n<p>The podcast delved into the history of autistic contributions to society and did Autistic Advocacy episodes on important issues that affect our community. I found the humor between the hosts to be pretty delightful, and the conversations it had were super important in a society that often seeks to \"fix\" autism instead of accommodate or embrace it.</p>\n<p>This is quite a well-known autistic podcast, with hundreds of episodes to date. The first ~129 episodes are largely a funny and informative listen that provided me with a sort of pseudo-<span style=\"text-decoration: underline;\"><a href=\"https://www.autisticculturepodcast.com/p/autistic-podcast-autistic-centered-therapy\">autistic therapy</a></span> during a time when I needed it.</p>\n<blockquote>\n<p><em>It's not a perfect podcast, but it genuinely meant a lot to me to hear two autistic adults have fun together and explore the sociocultural attributes of Autistica. I sincerely wish it were a real place I could visit.</em></p>\n</blockquote>\n<p>Unfortunately, Matt is no longer a host; however, I still recommend the original first ~three seasons of the podcast for their quality and enjoyability. Feel free to check out Matt's new podcast, the <em><span style=\"text-decoration: underline;\"><a href=\"https://www.mattlowrylpp.com/voice\">Autistic V.O.I.C.E. Project</a></span></em>, as well.</p>",
+            "image": "https://aylins-autisticresources.org/media/posts/11/autistic-culture-pod.jpg",
+            "author": {
+                "name": "emily"
+            },
+            "tags": [
+                   "Podcasts"
+            ],
+            "date_published": "2026-02-01T18:30:42-08:00",
+            "date_modified": "2026-02-01T21:52:38-08:00"
+        },
+        {
+            "id": "https://aylins-autisticresources.org/embrace-autism/",
+            "url": "https://aylins-autisticresources.org/embrace-autism/",
+            "title": "Embrace Autism",
+            "summary": "Embrace Autism is a website that advocates for positive autism education and offers free, at-home autism assessment resources. It's run&hellip;",
+            "content_html": "<h5><a href=\"https://embrace-autism.com/\"><span style=\"text-decoration: underline;\">Embrace Autism</span></a> is a website that advocates for positive autism education and offers free, at-home autism assessment resources.</h5>\n<p>It's run by Dr. Natalie Engelbrecht and Eva Silvertant, who are both autistic (and seem to have a pretty hardcore special interest in autism ;). </p>\n<blockquote>\n<p><em>Embrace Autism is well known for having clinically validated <a href=\"https://embrace-autism.com/autism-tests/\"><span style=\"text-decoration: underline;\">autism questionnaires</span></a> that you can do at home for free. This is reflective of their mission to make quality autism assessments and information more accessible to the public.</em></p>\n<p><em>You can also book a formal assessment with one of their neurodivergent practitioners, if you'd like. (Bring your binder full of test scores with you!)</em></p>\n</blockquote>\n<p>Part of my early autism journey was obsessively taking every single inventory on this website to try to figure out whether I might be autistic. Unsurprisingly, the answer was a choral, harmonized, resounding <em>yes</em>... from all of them. :) It's a great place to start if you're wondering whether you might be as well.</p>\n<p>On top of that, they also have hundreds of blog posts on a diverse variety of autism-related subjects. Some I found particularly interesting are \"<a href=\"https://embrace-autism.com/selective-mutism-in-autistic-adults/\"><span style=\"text-decoration: underline;\">Selective Mutism in Autistic Adults</span></a>,\" \"<a href=\"https://embrace-autism.com/finding-an-autism-affirming-therapist/\"><span style=\"text-decoration: underline;\">Finding an Autism-Affirming Therapist</span></a>,\" and \"<span style=\"text-decoration: underline;\"><a href=\"https://embrace-autism.com/autism-and-disorganized-thoughts/\">Autism and Disorganized Thoughts</a></span>\" (or nonlinear thinking). Their wealth of content is so fascinating and well researched that it was VERY HARD to tear myself away from it in order to write this!</p>\n<p>Overall, Embrace Autism's combination of online self-assessments, charming graphic design, and empowering messages make it an ideal hub of autism-affirming information, especially for people who are just starting to explore whether they may be autistic.</p>",
+            "image": "https://aylins-autisticresources.org/media/posts/10/embrace-autism.png",
+            "author": {
+                "name": "emily"
+            },
+            "tags": [
+                   "Websites",
+                   "AuDHD",
+                   "Articles"
+            ],
+            "date_published": "2026-02-01T18:26:21-08:00",
+            "date_modified": "2026-02-03T18:55:23-08:00"
+        },
+        {
             "id": "https://aylins-autisticresources.org/unmasking-autism-discovering-the-new-faces-of-neurodiversity/",
             "url": "https://aylins-autisticresources.org/unmasking-autism-discovering-the-new-faces-of-neurodiversity/",
             "title": "Unmasking Autism: Discovering the New Faces of Neurodiversity",
