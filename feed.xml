@@ -3,12 +3,48 @@
     <title>aylin&#x27;s autistic resource database &lt;3</title>
     <link href="https://aylins-autisticresources.org/feed.xml" rel="self" />
     <link href="https://aylins-autisticresources.org" />
-    <updated>2026-02-13T19:22:24-08:00</updated>
+    <updated>2026-02-19T18:19:37-08:00</updated>
     <author>
         <name>emily</name>
     </author>
     <id>https://aylins-autisticresources.org</id>
 
+    <entry>
+        <title>PDA Test for Adults</title>
+        <author>
+            <name>emily</name>
+        </author>
+        <link href="https://aylins-autisticresources.org/pda-test-for-adults/"/>
+        <id>https://aylins-autisticresources.org/pda-test-for-adults/</id>
+        <media:content url="https://aylins-autisticresources.org/media/posts/17/pdatest-2.png" medium="image" />
+            <category term="Websites"/>
+            <category term="Persistent Drive for Autonomy (PDA)"/>
+
+        <updated>2026-02-19T17:04:06-08:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://aylins-autisticresources.org/media/posts/17/pdatest-2.png" alt="website header that says &quot;PDA test for adults&quot; with a lightning background" />
+                    The PDA Test for Adults is a questionnaire that tests how much you may align with Persistent Drive for Autonomy&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://aylins-autisticresources.org/media/posts/17/pdatest-2.png" class="type:primaryImage" alt="website header that says &quot;PDA test for adults&quot; with a lightning background" /></p>
+                <h5>The <span style="text-decoration: underline;"><a href="https://docs.google.com/forms/d/e/1FAIpQLSc0eFJV5wJzJAw2R9ii2ts_cfTZ8mGKcsdWnehz-XATOSFs3w/viewform">PDA Test for Adults</a></span> is a questionnaire that tests how much you may align with Persistent Drive for Autonomy (PDA) traits.</h5>
+<p>It was created by Riko Ryuki and Sally Cat using questions from other inventories and research comparing PDA and non-PDA autistic people in 2016. There are 50 questions measuring PDA traits and 40 measuring autistic traits in general.</p>
+<p>There is currently no standard assessment to diagnose someone with PDA, so many resources are made by PDAers themselves. Thus, this quiz is not an official diagnostic tool, just an inventory to see how much you might resonate with PDA experiences.</p>
+<p>I've taken this test twice, and my scores were nearly identical — 41/50 for PDA and 36-37/40 for autism, indicating that I am "very likely" to have both. I am indeed a PDA autistic person (for better or worse), so the results were accurate for me, at least.</p>
+<p>Some of the questions I found to be a bit vague and difficult to answer, and I do think many could be quite relatable to people outside of the PDA profile as well.</p>
+<blockquote>
+<p><em>The questions I thought were the most relevant, discerning, and specific to my own PDA experience were:</em></p>
+<em><span style="color: #f3e66e;">• Does praise always make you feel good?</span></em><br><span style="color: #32dbc5;"><em>• Do you find it helpful if someone reminds you to do a task?</em></span><br><em><span style="color: #f3e66e;">• Does lack of choice make you feel out of control/panicky?</span></em><br><span style="color: #32dbc5;"><em>• Do you feel constrained by social expectations, such as having to say 'please' or 'thank you,' or having to smile?</em></span></blockquote>
+<p>Praise feels good to me if it's for something I chose to do; but if it's for something someone else made me do, it feels like they're saying "Great job doing what you're told! Keep doing it the way I want you to do it!"</p>
+<p>Reminding me to do a task often makes me <em>less </em>able to do it, because it makes it feel like it's not my choice anymore. (Which is horrifying!) Similarly, as a kid, I refused to follow politeness norms because it felt like it meant others had power over me, an idea that made my skin crawl. </p>
+<p>If I could edit the test, I might focus more on asking whether demands make you feel not just discomfort or annoyance, but <strong><em>rage</em> </strong>and <strong><em>panic </em></strong>that is disabling and, in some cases, meltdown-inducing. But this is based on my own PDA, so the experiences of others may vary! Frankly I hope they do, because mine are not great.</p>
+<p>Overall, it's not a guarantee that you have PDA and/or autism if you score highly on this test. However, if you find the traits measured here to be consistently disabling, you might want to look into PDA further and see if it resonates with you.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Autism Works Online</title>
         <author>
@@ -309,39 +345,6 @@
 <p class="msg"><em>It's certainly not the only focus timer app out there, but it may well be the most charming.</em></p>
 </blockquote>
 <p>The app runs on optional in-game purchases (no ads) and is available on <a href="https://play.google.com/store/apps/details?id=com.underthing.focus.friend&amp;hl=en_US"><span style="text-decoration: underline;">Android</span></a> and <span style="text-decoration: underline;"><a href="https://apps.apple.com/us/app/focus-friend-by-hank-green/id6742278016">Apple</a></span> devices for free!</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>How We Feel</title>
-        <author>
-            <name>emily</name>
-        </author>
-        <link href="https://aylins-autisticresources.org/how-we-feel/"/>
-        <id>https://aylins-autisticresources.org/how-we-feel/</id>
-        <media:content url="https://aylins-autisticresources.org/media/posts/7/howwefeel2.png" medium="image" />
-            <category term="Mobile Apps"/>
-
-        <updated>2026-01-30T17:12:01-08:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://aylins-autisticresources.org/media/posts/7/howwefeel2.png" alt="" />
-                    How We Feel is a mobile journaling app designed by therapists and scientists at the Yale University Center for Emotional&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://aylins-autisticresources.org/media/posts/7/howwefeel2.png" class="type:primaryImage" alt="" /></p>
-                <h5><span style="text-decoration: underline;"><a href="https://howwefeel.org/"><em>How We Feel</em></a></span> is a mobile journaling app designed by therapists and scientists at the <span style="text-decoration: underline;"><a href="http://ycei.org/" target="_blank" data-v-735c43b9="" rel="noopener">Yale University Center for Emotional Intelligence</a></span> to help you name and track your emotions throughout the day.</h5>
-<p>The app taps you on the shoulder (via notifications) once or twice a day, or however frequently you want it to, and asks how you're feeling in that moment. You can type it in the search bar if you already have a word for what you're feeling.</p>
-<p>But if you need help naming it, you can browse through the emotions on the feelings wheel, which are organized by <strong><em>arousal </em></strong>(high or low) and <strong><em>valence </em></strong>(positive or negative). For example, "excited" is listed as a high energy, pleasant emotion, whereas "disconnected" is a low energy, unpleasant emotion.</p>
-<p>Each emotion has a specific description, which is helpful for choosing between similar feelings, such as "angry" and "furious." The differences can be somewhat subjective, but I usually at least somewhat agree with their definitions.</p>
-<p>Once you choose a feeling, you're asked what might be making you feel that way. You can quickly pick customizable tags for <em><strong>themes </strong></em>(e.g. driving, resting, reading, gaming), <em><strong>people </strong></em>(e.g. friends, family, co-workers, alone), and <em><strong>places </strong></em>(e.g. home, school, work). This has really helped me notice how certain situations and activities consistently make me feel.</p>
-<blockquote>
-<p>How We Feel <em>is especially handy for people with alexithymia, which can make it hard to recognize or describe your feelings.</em></p>
-<p><em>When there's literally a log of your emotions and what caused them colorfully staring you in the face, it's pretty hard to deny the patterns that show up.</em></p>
-</blockquote>
-<p>The design of the app is beautiful and easy to use as well, with each emotion taking a unique shape evocative of that feeling. It's available on <span style="text-decoration: underline;"><a href="https://play.google.com/store/apps/details?id=org.howwefeel.moodmeter&amp;hl=en_US">Android</a></span> and <span style="text-decoration: underline;"><a href="https://apps.apple.com/us/app/how-we-feel/id1562706384">Apple</a></span> devices for free!</p>
             ]]>
         </content>
     </entry>
