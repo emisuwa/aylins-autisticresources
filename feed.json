@@ -11,6 +11,24 @@
     },
     "items": [
         {
+            "id": "https://aylins-autisticresources.org/autistic-people-of-color-fund/",
+            "url": "https://aylins-autisticresources.org/autistic-people-of-color-fund/",
+            "title": "Autistic People of Color Fund",
+            "summary": "The Autistic People of Color Fund is a mutual aid fund aiming to provide direct financial support and reparations to&hellip;",
+            "content_html": "<h5>The <a href=\"https://autismandrace.com/\"><span style=\"text-decoration: underline;\">Autistic People of Color Fund</span></a> is a mutual aid fund aiming to provide direct financial support and reparations to autistic people of color.</h5>\n<p>It's run by the <span style=\"text-decoration: underline;\"><a href=\"https://awnnetwork.org/\">Autistic Women &amp; Nonbinary Network</a></span>, and the fund itself seems to be managed by people of color themselves.</p>\n<p>Anyone can donate to their<strong> </strong>Fund for Community Reparations for Autistic People of Color’s Interdependence, Survival, and Empowerment. Then, the Autistic People of Color Fund provides approved recipients microgrants of less than or up to $500 via check or direct deposit.</p>\n<blockquote>\n<p><em>Applicants must be autistic people of color themselves, not non-autistic family or caregivers, at least 15 years old, and reside in the United States.</em></p>\n<p><em>If approved, the funds must be used for the <span style=\"text-decoration: underline;\">benefit of the autistic person</span>, in any way they wish, and not for unaffirming therapies such as ABA. (This is a good sign in my book.)</em></p>\n</blockquote>\n<p>I don't have personal experience with this organization, but through research, it's the best-seeming mutual aid fund I could find for autistic people of color specifically. If anyone does have direct experience with it, I'd love to hear about it; you can email us at contact@aylins-autisticresources.org.</p>",
+            "image": "https://aylins-autisticresources.org/media/posts/21/autistic-poc-fund.png",
+            "author": {
+                "name": "emily"
+            },
+            "tags": [
+                   "People of Color (POC)",
+                   "Organizations",
+                   "Mutual Aid"
+            ],
+            "date_published": "2026-03-11T14:15:01-07:00",
+            "date_modified": "2026-03-11T14:48:20-07:00"
+        },
+        {
             "id": "https://aylins-autisticresources.org/autistic-self-advocacy-network-asan/",
             "url": "https://aylins-autisticresources.org/autistic-self-advocacy-network-asan/",
             "title": "Autistic Self Advocacy Network (ASAN)",
@@ -173,22 +191,6 @@
             ],
             "date_published": "2026-02-03T20:11:16-08:00",
             "date_modified": "2026-02-13T18:01:58-08:00"
-        },
-        {
-            "id": "https://aylins-autisticresources.org/autistic-culture-podcast/",
-            "url": "https://aylins-autisticresources.org/autistic-culture-podcast/",
-            "title": "Autistic Culture Podcast",
-            "summary": "The Autistic Culture Podcast is/was a podcast that reimagines autism as a cultural difference as well as a neurological one.",
-            "content_html": "<h5>The <em><span style=\"text-decoration: underline;\"><a href=\"https://www.autisticculturepodcast.com/podcast\">Autistic Culture Podcast</a></span></em> is/was a podcast that reimagines autism as a cultural difference as well as a neurological one. </h5>\n<p>For the first approximately 129 episodes of this podcast, the hosts were Matt Lowry, LPP and Dr. Angela Kingdon, who discussed various sociocultural aspects of Autistic culture (as opposed to the dominant neurotypical culture we live in). In the imagined <span style=\"text-decoration: underline;\"><a href=\"https://www.mattlowrylpp.com/blog/autistica\">Land of Autistica</a></span>, a fable written by Matt, autistic people are surrounded by their own neurokin in a world made for them, unlike the world of forced neurotypicality.</p>\n<p>The podcast delved into the history of autistic contributions to society and did Autistic Advocacy episodes on important issues that affect our community. I found the humor between the hosts to be pretty delightful, and the conversations it had were super important in a society that often seeks to \"fix\" autism instead of accommodate or embrace it.</p>\n<p>This is quite a well-known autistic podcast, and the first ~100ish episodes are largely a funny and informative listen that provided me with a sort of pseudo-<span style=\"text-decoration: underline;\"><a href=\"https://www.autisticculturepodcast.com/p/autistic-podcast-autistic-centered-therapy\">autistic therapy</a></span> during a time when I needed it.</p>\n<blockquote>\n<p><em>It's not a perfect podcast, but it genuinely meant a lot to me to hear two autistic adults have fun together and explore the wonders of Autistica. I sincerely wish it were a real place I could visit.</em></p>\n</blockquote>\n<p>Unfortunately, Matt is no longer a host; however, I still recommend the original first ~three seasons of the podcast for their quality and enjoyability. Feel free to check out Matt's new podcast, the <em><span style=\"text-decoration: underline;\"><a href=\"https://www.mattlowrylpp.com/voice\">Autistic V.O.I.C.E. Project</a></span></em>, as well.</p>",
-            "image": "https://aylins-autisticresources.org/media/posts/11/autistic-culture-pod-png.png",
-            "author": {
-                "name": "emily"
-            },
-            "tags": [
-                   "Podcasts"
-            ],
-            "date_published": "2026-02-01T18:30:42-08:00",
-            "date_modified": "2026-02-12T13:28:50-08:00"
         }
     ]
 }
