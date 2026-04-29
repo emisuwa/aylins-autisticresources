@@ -3,12 +3,48 @@
     <title>aylin&#x27;s autistic resource database &lt;3</title>
     <link href="https://aylins-autisticresources.org/feed.xml" rel="self" />
     <link href="https://aylins-autisticresources.org" />
-    <updated>2026-04-16T19:57:27-07:00</updated>
+    <updated>2026-04-29T13:18:08-07:00</updated>
     <author>
         <name>emily</name>
     </author>
     <id>https://aylins-autisticresources.org</id>
 
+    <entry>
+        <title>Neurodivergent Insights</title>
+        <author>
+            <name>emily</name>
+        </author>
+        <link href="https://aylins-autisticresources.org/neurodivergent-insights/"/>
+        <id>https://aylins-autisticresources.org/neurodivergent-insights/</id>
+        <media:content url="https://aylins-autisticresources.org/media/posts/24/nd-insights.png" medium="image" />
+            <category term="Websites"/>
+            <category term="Persistent Drive for Autonomy (PDA)"/>
+            <category term="Instagram"/>
+            <category term="AuDHD"/>
+            <category term="Articles"/>
+
+        <updated>2026-04-29T12:18:07-07:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://aylins-autisticresources.org/media/posts/24/nd-insights.png" alt="White and blue blog header that says &quot;Neurodivergent Insights Blog: Articles on Autism, ADHD, and Neurodivergence&quot;" />
+                    Neurodivergent Insights is a website and collection of neurodivergent resources by Dr. Megan Anna Neff. Dr. Neff, an AuDHD psychologist,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://aylins-autisticresources.org/media/posts/24/nd-insights.png" class="type:primaryImage" alt="White and blue blog header that says &quot;Neurodivergent Insights Blog: Articles on Autism, ADHD, and Neurodivergence&quot;" /></p>
+                <h4><a href="https://neurodivergentinsights.com/"><span style="text-decoration: underline;">Neurodivergent Insights</span></a> is a website and collection of neurodivergent resources by Dr. Megan Anna Neff.</h4>
+<p>Dr. Neff, an AuDHD psychologist, created the <a href="https://neurodivergentinsights.com/"><span style="text-decoration: underline;">Neurodivergent Insights</span></a> website, <span style="text-decoration: underline;"><a href="https://www.instagram.com/neurodivergent_insights/">Instagram</a></span> account, and a book called <a href="https://bookshop.org/p/books/self-care-for-autistic-people-100-ways-to-recharge-de-stress-and-unmask-dr-megan-anna-neff/2cff470d82ce02df?utm_source=google&amp;utm_medium=cpc&amp;utm_campaign=dsa_nonbrand&amp;utm_content={adgroupname}&amp;utm_term=aud-1721779758375:dsa-19959388920&amp;gad_source=1&amp;gad_campaignid=12440232635&amp;gbraid=0AAAAACfld42NhBjTI9xkaWyezDCdxlajT&amp;gclid=Cj0KCQjw2MbPBhCSARIsAP3jP9xYU1d_9DgowSiUC6bz36-8PGJbeh2rNjHvjmHYM0c4b5YwZCKvOMQaAjRrEALw_wcB"><span style="text-decoration: underline;">Self-Care for Autistic People</span></a>.</p>
+<blockquote>
+<p><em>Her resources are pretty well-known within the online autistic community for their helpful, clear visual diagrams and infographics.</em></p>
+<p><em>There's some paid content on the website that you can opt into if you want, but I think the main draw is her <span style="text-decoration: underline;"><a href="https://neurodivergentinsights.com/blog/">blog</a></span> that has tons of free articles on neurodivergent topics. </em></p>
+</blockquote>
+<p>She writes about differences and similarities between different forms of neurodivergence (known as <span style="text-decoration: underline;"><a href="https://neurodivergentinsights.com/misdiagnosismonday/">Misdiagnosis Monday</a></span>), <span style="text-decoration: underline;"><a href="https://neurodivergentinsights.com/sensory-preferences-the-complete-checklist/?srsltid=AfmBOoo412h02Ted1ilOTAo1gXzq8Usv5EEw_t5Dko1wjwYjXAsGIAqJ">sensory checklists</a></span> for autistic people (that I used as a personal inventory soon after I was diagnosed), ideas for <span style="text-decoration: underline;"><a href="https://neurodivergentinsights.com/sensory-calming-techniques/">sensory comforts</a></span> to try, and some free <span style="text-decoration: underline;"><a href="https://neurodivergentinsights.com/wp-content/uploads/2026/04/2026-PDA-Resource-Roundup.pdf">PDA resources</a></span>. She also has articles about how <span style="text-decoration: underline;"><a href="http://neurodivergentinsights.com/autism-acceptance-in-medicine/">medical professionals</a></span> and <span style="text-decoration: underline;"><a href="https://neurodivergentinsights.com/autism-in-therapy/">therapists</a></span> can work to be more accepting of autistic people, among many other interesting subjects.</p>
+<p>If you're confused about any of the terms used on the website, or in neurodivergent discourse in general, there's a pretty cool <span style="text-decoration: underline;"><a href="https://neurodivergentinsights.com/neurodivergent-insights-glossary/">glossary</a></span> that defines common terminology for you. And there are some courses and trainings for therapists and parents who want to better understand and support their neurodivergent clients and/or family members, though I have no personal experience with these.</p>
+<p>Overall, I think Dr. Neff made a pretty cool hub for anyone looking for an alternative to autism resources made by neurotypicals. (Usually good to steer clear of those :')</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Notes for Neuro Navigators</title>
         <author>
@@ -327,41 +363,6 @@
 <p>Some other features include <strong>daily quests</strong>, <strong>notifications </strong>to do your tasks, a <strong>mood tracker</strong>, a <strong>journal</strong>, a <strong>focus timer</strong>, the ability to <strong>play with a friend</strong>, and even <strong>micropets </strong>(smaller pets for your already small pet...lol). There is a paid Plus mode, but the core mechanics are not paywalled.</p>
 <p>Overall, you can really tell the developers put their whole asses into this app. I started using Finch during an Alice in Wonderland-themed event with special items, storylines, and animations that I found surprisingly elaborate! There's plenty of novelty and collectibles here on top of the desire to keep your bird-like companion happy, both of which help keep you from getting bored and quitting.</p>
 <p>It's available for both <span style="text-decoration: underline;"><a href="https://play.google.com/store/apps/details?id=com.finch.finch&amp;hl=en_US">Android</a></span> and <a href="https://apps.apple.com/us/app/finch-self-care-pet/id1528595748"><span style="text-decoration: underline;">Apple</span></a> devices. :)</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Wonderfully Wired Brains: An Introduction to the World of Neurodiversity</title>
-        <author>
-            <name>emily</name>
-        </author>
-        <link href="https://aylins-autisticresources.org/wonderfully-wired-brains-an-introduction-to-the-world-of-neurodiversity/"/>
-        <id>https://aylins-autisticresources.org/wonderfully-wired-brains-an-introduction-to-the-world-of-neurodiversity/</id>
-        <media:content url="https://aylins-autisticresources.org/media/posts/14/wwb-png.png" medium="image" />
-            <category term="Books"/>
-            <category term="AuDHD"/>
-
-        <updated>2026-02-11T17:09:22-08:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://aylins-autisticresources.org/media/posts/14/wwb-png.png" alt="yellow picture book with a child with sunglasses on the front" />
-                    Wonderfully Wired Brains: An Introduction to the World of Neurodiversity is a picture book that explores different forms of neurodivergence.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://aylins-autisticresources.org/media/posts/14/wwb-png.png" class="type:primaryImage" alt="yellow picture book with a child with sunglasses on the front" /></p>
-                <h5><a href="https://bookshop.org/p/books/wonderfully-wired-brains-an-introduction-to-the-world-of-neurodiversity-louise-gooding/f36f584d4d5f7463?ean=9780744074635&amp;next=t&amp;next=t&amp;affiliate=2186&amp;prhc=PRHEFFDF5A7F1"><span style="text-decoration: underline;">Wonderfully Wired Brains: An Introduction to the World of Neurodiversity</span></a> is a picture book that explores different forms of neurodivergence.</h5>
-<p>It's written by Louise Gooding, a neurodivergent author with ADHD, who writes children's books about neurodiversity and disability.</p>
-<blockquote>
-<p><em>This book starts by showing how brains work on a scientific level — neurons, synapses, neurotransmitters, and how messages are relayed to and from your brain. </em></p>
-<p><em>Then, it specifically explains autism, ADHD, Tourette's syndrome, dyslexia, dyspraxia, OCD, and other forms of neurodivergence in an impressive amount of detail for a kids' book while still being quite accessible.</em></p>
-</blockquote>
-<p>Gooding goes into the <strong>history </strong>of these diagnoses, <strong>traits </strong>that people may exhibit, neurodivergent <strong>famous/historical figures</strong>, and some <strong>supports </strong>that can help. She even includes an explanation of <strong>masking</strong>, an incredibly important element of neurodivergence for children to learn about.</p>
-<p>I read it before giving it to my elementary school teacher aunt for Christmas and felt like I was learning things even as a fully grown adult ;)</p>
-<p>I also appreciate the positive, empathetic way this book presents neurodivergence. For example, it shows the rainbow infinity symbol for autism instead of the puzzle piece (and even discusses that choice explicitly) in a spread about awareness and acceptance.</p>
-<p>It's a pretty cool book, so get it for the kid in your life if you want them to understand their own neurotype and/or not be an asshat to people with other neurotypes. ^^</p>
-<p><span style="text-decoration: underline;"><em>Note</em></span>: One page references the statistic about how more boys are diagnosed with autism than girls. The only thing I would add to this book (and did add to the copy I gave my aunt) is an asterisk saying that girls and women tend to be diagnosed less often because of societal sexism. This might be a beneficial conversation to have with kids as well!</p>
             ]]>
         </content>
     </entry>
