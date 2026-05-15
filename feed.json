@@ -11,6 +11,25 @@
     },
     "items": [
         {
+            "id": "https://aylins-autisticresources.org/autistic-voice-project/",
+            "url": "https://aylins-autisticresources.org/autistic-voice-project/",
+            "title": "Autistic V.O.I.C.E. Project",
+            "summary": "The Autistic V.O.I.C.E. Project is a podcast by Matt Lowry, LPP and Erin Findley, PsyD about autistic culture and experiences.",
+            "content_html": "<h5>The <a href=\"https://www.mattlowrylpp.com/voice\"><span style=\"text-decoration: underline;\">Autistic V.O.I.C.E. Project</span></a> is a podcast <span style=\"font-weight: 400;\">by Matt Lowry, LPP and Erin Findley, PsyD about autistic culture and experiences.</span></h5>\n<p>If you've heard of the Autistic Culture podcast, this is the same Matt. He is still a very amusing guy who provides me with a lot of chuckles on my way to work, so I'm glad he's back in my autistic ears. Also, he talks about having PDA (Persistent Drive for Autonomy) on this podcast!</p>\n<blockquote>\n<p><em>According to Matt, this new podcast focuses more on HOW and WHY to be more autistic (yes, more :), including <span style=\"font-weight: 400;\">what being autistic can be like and the intricacies of living a life that is more aligned with your brain.</span></em></p>\n<p><em>And it's hosted by two neuro-affirming autistic clinicians who <span style=\"font-weight: 400;\">helped develop <span style=\"text-decoration: underline;\"><a href=\"https://www.mattlowrylpp.com/blog/act-83tka\">Autistic-Centered Therapy</a></span>! Pretty cool.</span></em></p>\n</blockquote>\n<p>For this podcast, Matt's co-host is Erin, <span style=\"font-weight: 400;\">an AuDHD mental health practitioner who provides a lot of interesting insight into cross-neurotype relationships. </span>She tends to <span style=\"font-weight: 400;\">supply some additional sanity/reason/nuance to Matt's sarcastic zaniness (and she has her entertaining moments as well). Sometimes they have autistic guests on, and it seems like you can just email them and offer to be a guest if you want. </span></p>\n<p><span style=\"font-weight: 400;\">The tone of the show is quite sweet at times. It's always nice to hear Matt's cute, wholesome stories about his clock-loving autistic son. And the end of episode 31 made me cry a little bit when they said some things about how you're not alone, even if you have no support in your life, and they wish the world were better for us.</span></p>\n<p><span style=\"font-weight: 400;\">Very rad and also neato to have another podcast where autistic stories are centered, especially one hosted by autistic therapists. If you're interested, I recommend it.</span></p>",
+            "image": "https://aylins-autisticresources.org/media/posts/25/voice.png",
+            "author": {
+                "name": "emily"
+            },
+            "tags": [
+                   "Podcasts",
+                   "Persistent Drive for Autonomy (PDA)",
+                   "Neuro-Affirming Therapy",
+                   "AuDHD"
+            ],
+            "date_published": "2026-05-14T18:27:53-07:00",
+            "date_modified": "2026-05-14T18:35:09-07:00"
+        },
+        {
             "id": "https://aylins-autisticresources.org/neurodivergent-insights/",
             "url": "https://aylins-autisticresources.org/neurodivergent-insights/",
             "title": "Neurodivergent Insights",
@@ -173,24 +192,6 @@
             ],
             "date_published": "2026-02-13T16:56:08-08:00",
             "date_modified": "2026-02-13T19:22:24-08:00"
-        },
-        {
-            "id": "https://aylins-autisticresources.org/finch/",
-            "url": "https://aylins-autisticresources.org/finch/",
-            "title": "Finch",
-            "summary": "Finch is a mobile app where you care for a virtual pet by setting and completing self-care tasks for yourself.",
-            "content_html": "<h5><span style=\"text-decoration: underline;\"><a href=\"https://finchcare.com/\">Finch</a></span> is a mobile app where you care for a virtual pet by setting and completing self-care tasks for yourself.</h5>\n<p>It was created by Stephanie Yuan and Thomas Aquinas Nugraha Budi to gamify taking care of your mental health. You name and design a \"birb\" and set daily habits for yourself — anything from drinking water to doing a jig to literally surviving the day.</p>\n<p>Every time you complete one of your tasks, your birb gets energized with hearts. Once they have enough, they can set out on an adventure, exploring the world and discovering new things like a child. Eventually, your birb will \"evolve\" into different stages of life, unlocking more customization options. (The day my little Poppyseed graduated to toddlerdom was a very proud day indeed!)</p>\n<blockquote>\n<p><em>This app seems particularly useful for anyone who struggles to keep a consistent routine or complete activities of daily living (ADLs). </em></p>\n<p><em>Finch only uses positive reinforcement as motivation, with no punishments for not completing tasks. So if you benefit from cute rewards and mildly addictive external incentives to hold you accountable, the birb might be for you.</em></p>\n</blockquote>\n<p>Some other features include <strong>daily quests</strong>, <strong>notifications </strong>to do your tasks, a <strong>mood tracker</strong>, a <strong>journal</strong>, a <strong>focus timer</strong>, the ability to <strong>play with a friend</strong>, and even <strong>micropets </strong>(smaller pets for your already small pet...lol). There is a paid Plus mode, but the core mechanics are not paywalled.</p>\n<p>Overall, you can really tell the developers put their whole asses into this app. I started using Finch during an Alice in Wonderland-themed event with special items, storylines, and animations that I found surprisingly elaborate! There's plenty of novelty and collectibles here on top of the desire to keep your bird-like companion happy, both of which help keep you from getting bored and quitting.</p>\n<p>It's available for both <span style=\"text-decoration: underline;\"><a href=\"https://play.google.com/store/apps/details?id=com.finch.finch&amp;hl=en_US\">Android</a></span> and <a href=\"https://apps.apple.com/us/app/finch-self-care-pet/id1528595748\"><span style=\"text-decoration: underline;\">Apple</span></a> devices. :)</p>",
-            "image": "https://aylins-autisticresources.org/media/posts/15/finch.png",
-            "author": {
-                "name": "emily"
-            },
-            "tags": [
-                   "People of Color (POC)",
-                   "Mobile Apps",
-                   "AuDHD"
-            ],
-            "date_published": "2026-02-12T13:22:52-08:00",
-            "date_modified": "2026-02-12T14:31:03-08:00"
         }
     ]
 }
